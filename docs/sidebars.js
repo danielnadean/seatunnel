@@ -246,6 +246,7 @@ const sidebars = {
                         "getting-started/submit-job-to-remote-zeta-cluster",
                         "engines/zeta/checkpoint-storage",
                         "engines/zeta/state-storage-and-recovery",
+                        "engines/zeta/timer-flush",
                         "engines/zeta/engine-jar-storage-mode",
                         "engines/zeta/tcp",
                         "engines/zeta/resource-isolation",
@@ -346,6 +347,16 @@ const sidebars = {
                 "edge-agent/output-configuration",
                 "edge-agent/operations",
                 "edge-agent/faq"
+            ]
+        },
+        {
+            "type": "category",
+            "label": "AI CLI",
+            "items": [
+                "ai-cli/overview",
+                "ai-cli/quickstart",
+                "ai-cli/design",
+                "ai-cli/benchmark"
             ]
         },
         {
